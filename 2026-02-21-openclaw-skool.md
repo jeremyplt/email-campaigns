@@ -11,7 +11,7 @@ Salut {prenom},
 
 Hier, j'ai fait quelque chose que j'aurais trouvé impossible il y a encore 6 mois.
 
-J'étais en voiture. 5 heures de route, de 11h à 17h. Pas d'ordi, pas de code, juste le volant et la route.
+J'étais en voiture. 6 heures de route, de 11h à 17h. Pas d'ordi, pas de code, juste le volant et la route.
 
 Avant de partir, j'ai envoyé un message à **OpenClaw**, un outil open source que j'utilise nuit et jour depuis que je l'ai découvert. C'est un agent IA qui tourne sur un serveur et qui peut coder, créer des PRs, analyser des bugs, gérer des projets... en autonomie totale.
 
