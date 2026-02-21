@@ -2,84 +2,88 @@
 
 **Objet (choisir un) :**
 - 100 PRs pendant que je conduisais. Voici comment.
-- Mon IA a codé sur tous mes projets pendant 5h... sans moi.
+- Mon IA a codé sur tous mes projets pendant 6h... sans moi.
 - J'ai lancé un agent IA en voiture. Il a fait le travail de 10 devs.
 
 ---
 
 Salut {prenom},
 
-Hier, j'ai fait quelque chose que j'aurais trouvé impossible il y a encore 6 mois.
+Faut que je te raconte ce qui m'est arrivé hier.
 
-J'étais en voiture. 6 heures de route, de 11h à 17h. Pas d'ordi, pas de code, juste le volant et la route.
+J'étais en voiture. 6 heures de route, de 11h à 17h. Et j'avais ce truc qui me trottait dans la tête : "6 heures où je peux rien faire sur mes projets..."
 
-Avant de partir, j'ai envoyé un message à **OpenClaw**, un outil open source que j'utilise nuit et jour depuis que je l'ai découvert. C'est un agent IA qui tourne sur un serveur et qui peut coder, créer des PRs, analyser des bugs, gérer des projets... en autonomie totale.
+Sauf que.
 
-Je lui ai dit un truc du genre : "Je suis en voiture de 11h à 17h. Code non-stop sur tous mes projets."
+Depuis quelques semaines, j'utilise un outil qui s'appelle **OpenClaw**. C'est open source, ça tourne sur un serveur, et honnêtement... ça a complètement changé ma façon de bosser. C'est un agent IA autonome. Tu lui donnes des instructions, et il code, crée des PRs, corrige des bugs, tout seul. Nuit et jour.
 
-Et c'est exactement ce qu'il a fait.
+Donc avant de prendre la route, j'ai juste envoyé un message sur Telegram : "Je suis en voiture de 11h à 17h. Code non-stop sur tous mes projets."
 
-Mon agent orchestrateur s'est mis en marche. Il a scanné mes erreurs Sentry, lu mon backlog Trello, analysé mes feedbacks utilisateurs. Puis il a commencé à déléguer.
+Et je suis parti.
 
-Il a lancé des sous-agents. Chacun avec une mission précise. Un qui fixe un bug critique sur mon app Shinobi (50k+ utilisateurs). Un autre qui ajoute une feature demandée par la communauté. Un troisième qui refactor du code legacy sur mon thème Shopify (600+ marchands).
+[SCREENSHOT: Le message envoyé sur Telegram avant de partir]
 
-**En parallèle. Sans supervision. Pendant des heures.**
+Pendant que je conduisais, mon téléphone vibrait. Des notifications. Encore. Et encore.
 
-[SCREENSHOT: Conversation Telegram avec Moïse montrant les notifications de PRs créées en temps réel, ex: "✅ PR #118 : fix download 403", "🚀 Tâche lancée : trust badges SMT", etc.]
+"✅ PR créée : fix du bug de téléchargement sur Shinobi"
+"🚀 Nouvelle feature : trust badges sur le thème Shopify"
+"✅ PR créée : refactor du système audio"
 
-Quand j'ai regardé mon téléphone en arrivant ?
+J'hallucine à chaque fois, mais là c'était un autre niveau.
 
-**+100 Pull Requests. Sur tous mes projets. Cumulés.**
+[SCREENSHOT: Les notifications Telegram des PRs créées en temps réel]
 
-[SCREENSHOT: Liste des PRs sur GitHub - vue d'ensemble montrant le volume (shinobiapp, self-made-theme, etc.)]
+L'agent a scanné mes bugs Sentry, lu mon backlog Trello, regardé les feedbacks de mes utilisateurs. Et il a tout dispatché à des sous-agents qui bossaient en parallèle. Un qui fixe un bug critique sur Shinobi (mon app à 50k+ utilisateurs). Un autre qui ajoute une feature demandée par la communauté. Un troisième qui améliore mon thème Shopify (600+ marchands).
 
-Des nouvelles fonctionnalités. Des corrections de bugs. Des améliorations de performance. Des refactors propres. Du code testé, commité, avec des PRs prêtes à review.
+Quand je suis arrivé et que j'ai ouvert GitHub ?
 
-[SCREENSHOT: Détail d'une ou deux PRs impressionnantes - le diff, les fichiers changés, les tests qui passent]
+**Plus de 100 Pull Requests. Tous projets confondus.**
 
-Le genre de travail qui prendrait une équipe de développeurs plusieurs semaines.
+[SCREENSHOT: La liste des PRs sur GitHub]
 
-Fait en quelques heures. Par un agent IA que j'ai configuré une seule fois.
+Des features. Des bugfixes. Des refactors. Du code propre, testé, prêt à review.
 
----
+[SCREENSHOT: Le détail d'une ou deux PRs qui claquent]
 
-On est à un moment où un développeur solo, avec les bons outils et la bonne stratégie, peut rivaliser avec une équipe de 10 personnes.
-
-Et ça change tout pour ceux qui veulent lancer une app mobile rentable.
-
----
-
-**D'ailleurs, c'est exactement ce que je suis en train de faire.**
-
-Je viens de lancer sur ma communauté Skool une nouvelle formation : **"App Mobile Rentable en 28 Jours"**.
-
-Je suis encore en train de tourner les vidéos. Tout n'est pas encore disponible. L'intro et la première semaine sont en ligne, et le reste arrive au fur et à mesure.
-
-Et c'est justement ça qui est cool : **on le fait ensemble, en direct.**
-
-D'ailleurs, on vient de faire notre premier live sur le Skool et c'était génial. J'ai répondu aux questions des membres, j'ai montré comment je mettais en place certains aspects de mon app Shinobi Japanese en temps réel. C'est exactement ce genre de moments qui font la différence par rapport à une formation classique qu'on regarde seul dans son coin.
-
-Dans la première semaine, on ne code pas encore. On fait le plus important :
-
-- **La recherche d'idée** : comment trouver une idée d'app qui a un vrai potentiel de revenus (pas juste "une idée cool")
-- **L'analyse de marché** : valider que des gens vont payer avant d'écrire une seule ligne de code
-- **Le design et le branding** : créer l'identité visuelle de ton app
-- **La mise en place technique** : créer les comptes développeur Apple et Google Play, configurer l'environnement
-
-Je le fais moi-même en même temps avec une nouvelle app que je lance. Tu verras tout mon processus en temps réel. Je viens de trouver mon idée, les comptes dev sont créés, et dans les prochaines semaines, on va construire, lancer et monétiser cette app ensemble.
-
-[SCREENSHOT: Aperçu de la communauté Skool ou du curriculum de la formation]
+Je te mens pas, c'est le genre de taff qui prendrait des semaines à une équipe. Et là c'était fait en quelques heures, pendant que je conduisais.
 
 ---
 
-Si tu veux nous rejoindre et participer à l'aventure en direct, c'est ici :
+Pourquoi je te raconte ça ?
+
+Parce qu'on vit un moment de dingue. Aujourd'hui, un dev solo avec les bons outils peut faire ce qu'une équipe de 10 faisait il y a 2 ans. Et si t'as toujours voulu lancer une app mobile, il n'y a jamais eu de meilleur moment.
+
+**C'est exactement pour ça que j'ai lancé un nouveau projet sur Skool.**
+
+Une formation : **"App Mobile Rentable en 28 Jours"**.
+
+Et le truc c'est que c'est pas une formation "classique" où tu regardes des vidéos tout seul. Je suis en train de tourner les vidéos en ce moment même. L'intro et la première semaine sont déjà en ligne, et la suite arrive au fur et à mesure.
+
+**On construit ensemble, en direct.**
+
+La semaine dernière on a fait notre premier live et c'était incroyable. J'ai répondu à toutes les questions des membres, j'ai partagé mon écran et montré comment je mets en place certains aspects de Shinobi Japanese en temps réel. Le genre de truc que tu trouves nulle part ailleurs.
+
+Dans la première semaine (déjà dispo), voilà ce qu'on fait :
+
+🔍 **Recherche d'idée** : comment trouver une idée d'app qui va vraiment générer des revenus (pas juste un "ce serait cool")
+📊 **Analyse de marché** : valider que des gens vont payer AVANT d'écrire une seule ligne de code
+🎨 **Design et branding** : poser l'identité visuelle de ton app
+⚙️ **Setup technique** : créer les comptes développeur Apple et Google Play, tout configurer
+
+Et moi je fais tout ça en même temps avec une nouvelle app que je lance. Je viens de trouver mon idée, les comptes dev sont créés. Tu vas voir tout mon processus, mes réflexions, mes galères, tout.
+
+[SCREENSHOT: Aperçu du Skool - le curriculum ou un extrait du live]
+
+---
+
+Si tu veux nous rejoindre et vivre l'aventure en direct avec nous, c'est ici :
 
 👉 **[Rejoindre la communauté sur Skool](LIEN_SKOOL)**
 
-Le prix augmentera progressivement à chaque palier de membres. Plus tôt tu rejoins, moins tu paies.
+Le prix augmentera progressivement à chaque palier de membres. Plus tôt tu nous rejoins, moins tu paies.
 
-On se retrouve à l'intérieur,
+A très vite j'espère,
 
 Jeremy
 
-P.S. - Le fait d'avoir des agents IA qui bossent sur mes projets en autonomie, ça me libère un temps énorme. Et c'est exactement ce temps que j'investis dans cette formation et les lives pour te partager tout ce que j'ai appris en lançant des apps à +50k utilisateurs.
+P.S. - Grâce aux agents IA qui bossent sur mes projets en autonomie, j'ai enfin le temps de créer le contenu que je voulais faire depuis longtemps. Cette formation c'est tout ce que j'ai appris en lançant des apps à +50k utilisateurs, condensé et partagé en direct. Ça aurait été dommage de garder tout ça pour moi 😄
