@@ -63,10 +63,10 @@ On a fait notre premier live la semaine dernière. J'ai répondu aux questions d
 
 La semaine 1 (déjà dispo) :
 
-🔍 Recherche d'idée rentable
-📊 Validation de marché avant de coder
-🎨 Design et branding
-⚙️ Création des comptes dev Apple & Google Play
+- 🔍 Recherche d'idée rentable
+- 📊 Validation de marché avant de coder
+- 🎨 Design et branding
+- ⚙️ Création des comptes dev Apple & Google Play
 
 Je fais tout ça en même temps avec une nouvelle app. Tu verras tout : mes réflexions, mon process, mes galères.
 
