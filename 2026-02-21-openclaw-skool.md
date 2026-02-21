@@ -9,9 +9,7 @@
 
 Salut {prenom},
 
-Faut que je te raconte ce qui m'est arrivé hier.
-
-6 heures de voiture. De 11h à 17h. Aucun moyen de bosser.
+Faut que je te raconte ce qui m'est arrivé hier. J'étais en voiture pendant 6 heures, de 11h à 17h. Normalement c'est du temps mort, impossible de bosser.
 
 Sauf que.
 
