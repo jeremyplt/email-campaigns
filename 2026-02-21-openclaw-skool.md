@@ -53,13 +53,13 @@ Parce qu'aujourd'hui, un dev solo avec les bons outils peut faire ce qu'une équ
 
 Et si t'as toujours voulu lancer une app mobile, il n'y a jamais eu de meilleur moment.
 
-**C'est pour ça que je viens de lancer sur Skool : "App Mobile Rentable en 28 Jours".**
+**C'est pour ça que je viens de lancer une nouvelle formation sur ma communauté Skool "App Secrets" : "App Mobile Rentable en 28 Jours".**
 
 C'est pas une formation classique. Je tourne les vidéos en ce moment même. L'intro et la semaine 1 sont en ligne, la suite arrive au fur et à mesure.
 
 **On construit ensemble, en direct.**
 
-On a fait notre premier live la semaine dernière. J'ai répondu aux questions des membres, partagé mon écran, montré comment je mets en place certains aspects de Shinobi Japanese en temps réel. Le genre de truc que tu trouves nulle part.
+On a fait notre premier live la semaine dernière. J'ai répondu aux questions des membres, partagé mon écran, montré comment je mets en place certains aspects de Shinobi Japanese (250k+ téléchargements, 50k utilisateurs actifs) en temps réel. Le genre de truc que tu trouves nulle part.
 
 La semaine 1 (déjà dispo) :
 
@@ -74,14 +74,14 @@ Je fais tout ça en même temps avec une nouvelle app. Tu verras tout : mes réf
 
 ---
 
-Si tu veux nous rejoindre et vivre l'aventure en direct :
+Si tu veux nous rejoindre et construire ton app avec nous en direct :
 
-👉 **[Rejoindre sur Skool](LIEN_SKOOL)**
+👉 **[Je rejoins App Secrets et je lance mon app](LIEN_SKOOL)**
 
-Le prix augmente à chaque palier de membres. Plus tôt tu rejoins, moins tu paies.
+Le prix augmente à chaque palier de membres. Plus tôt tu nous rejoins, moins tu paies.
 
 A très vite,
 
 Jeremy
 
-P.S. - Les agents IA qui bossent sur mes projets en autonomie me libèrent un temps fou. C'est ce temps que j'investis dans cette formation : tout ce que j'ai appris en lançant des apps à +50k utilisateurs, partagé en direct 😄
+P.S. - Les agents IA qui bossent sur mes projets en autonomie me libèrent un temps fou. C'est ce temps que j'investis dans cette formation : tout ce que j'ai appris en lançant des apps à +250k téléchargements, partagé en direct 😄
